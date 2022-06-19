@@ -1,13 +1,13 @@
 import mysql.connector
 import mysql.connector as mysql
 # enter your server IP address/domain name
-HOST = "127.0.0.1"  # or "domain.com"
+HOST = "sql6.freesqldatabase.com"  # or "domain.com"
 # database name, if you want just to connect to MySQL server, leave it empty
-DATABASE = "bot"
+DATABASE = "sql6500863"
 # this is the user you create
-USER = "root"
+USER = "sql6500863"
 # user password
-PASSWORD = "4321"
+PASSWORD = "63b5KvKT27"
 
 
 def connect():
