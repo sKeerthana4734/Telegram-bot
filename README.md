@@ -4,13 +4,14 @@
 Project Output/working images:
 
 1. Authorizing using email.<br>
-[https://github-production-user-asset-6210df.s3.amazonaws.com/91558152/256569424-61942d38-fb30-4be3-a87e-11f6f0e82593.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230727T162507Z&X-Amz-Expires=300&X-Amz-Signature=d79affbeafbf7bbca99872d655c7d8a29bca42b1e3ed69be5e8a12fea75e5519&X-Amz-SignedHeaders=host&actor_id=91558152&key_id=0&repo_id=671527424](https://github-production-user-asset-6210df.s3.amazonaws.com/91558152/256569424-61942d38-fb30-4be3-a87e-11f6f0e82593.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230727T162507Z&X-Amz-Expires=300&X-Amz-Signature=d79affbeafbf7bbca99872d655c7d8a29bca42b1e3ed69be5e8a12fea75e5519&X-Amz-SignedHeaders=host&actor_id=91558152&key_id=0&repo_id=671527424)https://github-production-user-asset-6210df.s3.amazonaws.com/91558152/256569424-61942d38-fb30-4be3-a87e-11f6f0e82593.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230727T162507Z&X-Amz-Expires=300&X-Amz-Signature=d79affbeafbf7bbca99872d655c7d8a29bca42b1e3ed69be5e8a12fea75e5519&X-Amz-SignedHeaders=host&actor_id=91558152&key_id=0&repo_id=671527424
+![image](https://github.com/sKeerthana4734/Telegram-bot/assets/91558152/5a85dc15-7f37-4ce1-8ddd-c579c6c620e4)
 
 2. Starts quiz questions.<br>
-![image](https://github.com/sKeerthana4734/Telegram-bot/assets/91558152/dfdc3ec9-3489-4c1f-9022-aa4a087db39e)
+![image](https://github.com/sKeerthana4734/Telegram-bot/assets/91558152/4118c1a3-70e3-4152-83fa-a347601174c0)
 
 3. Immediate validation of answers.<br>
-![image](https://github.com/sKeerthana4734/Telegram-bot/assets/91558152/5bca0435-6658-408f-ae0d-f8e8d8679b53)
+![image](https://github.com/sKeerthana4734/Telegram-bot/assets/91558152/d537421e-ae98-499d-968c-b230beda9102)
 
 4. Displays quiz result.<br>
-![image](https://github.com/sKeerthana4734/Telegram-bot/assets/91558152/797bff1a-9bb6-4b0f-bf4a-894566cd6a56)
+![image](https://github.com/sKeerthana4734/Telegram-bot/assets/91558152/c2d20acd-a82e-4e1a-9b58-073a4a0f6b78)
+
