@@ -3,7 +3,7 @@
 
 Project Output/working snapshots:
 
-1. Authorizing using email.
+1. Authorizing using email.<br>
 ![image](https://github.com/sKeerthana4734/Telegram-bot/assets/91558152/61942d38-fb30-4be3-a87e-11f6f0e82593)
 
 2. Starts quiz questions.
