@@ -1,7 +1,7 @@
 # Telegram-bot
 ### This is a python quiz bot developed using python flask which is integrated to telegram using Dialogflow platform and deployed using Heroku.
 
-Project Output/working snapshots:
+Project Output/working images:
 
 1. Authorizing using email.<br>
 ![image](https://github.com/sKeerthana4734/Telegram-bot/assets/91558152/61942d38-fb30-4be3-a87e-11f6f0e82593)
